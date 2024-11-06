@@ -23,7 +23,7 @@ I invite you to explore my [GitHub repository](https://github.com/JBtallgrass), 
 - **AI & Analytics**: Leveraging data analytics and GenAI to unlock insights and drive transformational initiatives within Army University.
 - **Data Literacy & Education**: Equipping leaders and students with data literacy skills critical for today's complex, data-rich environments.
 
-Please feel free to connect, collaborate, or contact me if our interests align. Let’s make data-driven transformation a reality together. 
+Please don't hesitate to connect, collaborate, or contact me if our interests align. Let’s make data-driven transformation a reality together. 
 
 ## Linkedin: [Jason A. Ballard](https://linkedin.com/in/ballardjasona/) 
 
