@@ -25,9 +25,9 @@ I invite you to explore my [GitHub repository](https://github.com/JBtallgrass), 
 
 Please feel free to connect, collaborate, or contact me if our interests align. Let’s make data-driven transformation a reality together. 
 
-## Linkedin: [Linkedin](htps://linkedin.com/in/ballardjasona) 
+## Linkedin: [Jason A. Ballard](https://linkedin.com/in/ballardjasona/) 
 
-# Project Title
+# Project Title: Module 3: Matplotlib and pyplot
 
 ## Project Overview
 This is an academic project support the Masters of Science in Data Anlytics program at Northwest Missouri State University [NWMSU](https://www.nwmissouri.edu/academics/graduate/masters/data-analytics.htm)
