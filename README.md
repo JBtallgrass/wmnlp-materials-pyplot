@@ -25,7 +25,7 @@ I invite you to explore my [GitHub repository](https://github.com/JBtallgrass), 
 
 Please feel free to connect, collaborate, or contact me if our interests align. Let’s make data-driven transformation a reality together. 
 
-## Linkedin: [Linkedin](htps://linkedin.com/in/ballardjasona) 
+## Linkedin: [Linkedin](https://linkedin.com/in/ballardjasona/) 
 
 # Project Title
 
